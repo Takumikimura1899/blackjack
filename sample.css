@@ -1,11 +1,11 @@
 @charset "utf-8";
 
 #table {
-  background: url(board.png) no-repeat;
+  background: url(./img/board.png) no-repeat;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
 }
 
 #table td {
